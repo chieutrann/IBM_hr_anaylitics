@@ -24,4 +24,4 @@ Early-tenure employees and the Sales department stand out as areas to investigat
 
 ## Dashboard
 
-[![HR Analytics Dashboard](output/Dashboard.png)]((https://public.tableau.com/views/IBManalysis_17918158398330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![HR Analytics Dashboard](output/Dashboard.png)](https://public.tableau.com/views/IBManalysis_17918158398330/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
